@@ -16,4 +16,21 @@ img.intro {
   border-radius: 4px;
   padding: 20px;
   image: center;
+  float: left;
 }
+
+.sidebar {
+  float: right;
+  width: 30%;
+  background-color: gray;
+  padding: 10px;
+}
+
+.column {
+  float: left;
+  width: 20%;
+}
+.random{
+  color: blue;
+  text-shadow: 20%;
+  }
